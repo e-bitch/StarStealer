@@ -15,7 +15,7 @@
     ☆ 33 Stars = FUD METHOD
 </h1>
 
-## 🌐 〢 Content
+## . ݁₊ ⊹ . ݁˖ . ݁
 
 - [✮⋆˙  Setting Up](#setup)
 - [⋆⭒˚.⋆ Features](#features)
@@ -51,18 +51,6 @@
 + Bypass Windows Defender Screen
 
 + Bypass VirusTotal
-
-
-
-#### Extra
-
-soon
-
----
-
-### screenshots
-
-soon
 
 
 <a id="todo"></a>
