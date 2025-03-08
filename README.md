@@ -54,11 +54,6 @@
 
 + Bypass VirusTotal
 
-
-<a id="todo"></a>
-
----
-By downloading this, you agree to the Commons Clause license and that you're not allowed to sell this repository or any code from this repository. For more info see [commonsclause](https://commonsclause.com/)
 ---
 
 ### blink blink
