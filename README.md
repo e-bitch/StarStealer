@@ -15,13 +15,6 @@
     ☆ 33 Stars = FUD METHOD
 </h1>
 
-<p align="center">
-<img src="https://img.shields.io/github/last-commit/doenerium6969/doenerium-fixed?style=flat">
-<img src="https://img.shields.io/github/stars/doenerium6969/doenerium-fixed?color=brightgreen">
-<img src="https://img.shields.io/github/forks/doenerium6969/doenerium-fixed?color=brightgreen">
-</p>
-<br>
-
 ## 🌐 〢 Content
 
 - [✮⋆˙  Setting Up](#setup)
