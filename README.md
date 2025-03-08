@@ -20,6 +20,8 @@
 - [✮⋆˙  Setting Up](#setup)
 - [⋆⭒˚.⋆ Features](#features)
 
+- [Join tele for building](https://t.me/starstealerofficial)
+
 <a id="setup"></a>
 
 ---
