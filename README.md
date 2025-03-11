@@ -34,26 +34,27 @@
 4. Fill the wallet field with you webhook and enjoy
 
 ---
+
 <a id="features"></a>
 ### ⋆⭒˚.⋆ Features
 
-#### StarStealer
+#### StarStealer (opensource)
++ Steam Stealer (bypass steamguard)
++ EpicGames Stealer
++ Ea Stealer
++ Metamask Wallet Stealer
++ Exodus Wallet Stealer 
++ +10 Other Wallets Stealer
++ Cookies & Passwords Stealer (Chrome, Brave, Edge, OperaGX, Opera, Vivaldo, Chromium & more...) 
++ Discord Injection 
++ Persistent file (AutoRun on startup)
 
-+ MetaMask Extension Saver & Password Bypass (70% working rate)
-
-+ Exodus Saver + Password Bypass
-
-+ All Cookies & Passwords for all Chromium-based Browsers (Chrome, Edge, Opera, Brave, etc.)
-
-+ Discord Injection (2FA Bypass)
-
-+ Persistent file (Run on startup)
-
-+ Editable webhook (Change the webhook if it gets deleted)
-
-+ Bypass Windows Defender Screen
-
-+ Bypass VirusTotal
+#### Telegram Version Features (free)
++ FUD Executable File
++ Bypass Smartscreen (Windows Defender)
++ Bypass all AV (Avast, MalwareBytes, etc...)
++ Edit Webhook (Change webhook even if it gets deleted, and keep old logs active)
++ Metamask With password (Get the wallet password)
 
 ---
 
