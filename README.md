@@ -1,8 +1,8 @@
 <a id="top"></a>
 <h1 align="center">
  Star  ☆ Stealer                                                  
-    <br>      FUD (Bypass AV) on Tele
-    <br>      https://t.me/+LqkYlIt6Rsw2MDAx
+    <br>      2026 FUD (Bypass AV) on Tele
+    <br>      https://t.me/+ImpbdKLU6O9lN2Vh
 </h1>
 <br>
 <p align="center"> 
@@ -20,7 +20,7 @@
 - [✮⋆˙  Setting Up](#setup)
 - [⋆⭒˚.⋆ Features](#features)
 
-- [Join tele for building](https://t.me/starstealerofficial)
+- [Join tele for building](https://t.me/+ImpbdKLU6O9lN2Vhl)
 
 <a id="setup"></a>
 
